@@ -1,0 +1,2 @@
+# Emine-OZGUR_Ciceksepeti_Odev2
+Çiçeksepeti_Test_Otomasyon_Bootcamp_Hafta1_Ödev2
